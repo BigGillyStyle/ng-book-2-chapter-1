@@ -1,5 +1,7 @@
 # Ngbook2chapter1
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BigGillyStyle/ng-book-2-chapter-1.svg)](https://greenkeeper.io/)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
 ## Development server
